@@ -1,0 +1,196 @@
+{
+    "url":"https://newstar.pizza/home",
+    "username3":"ritutanwar1510@gmail.com",
+    "username":"devsharktank@gmail.com",
+    "wrong_username":"ritumehla.tech@gmail.com",
+    "password":"Ritu@1510",
+    "password3":"12345678",
+    "customer_name":"Ritu",
+    "phone":"(215) 214-2900",
+    "updated_name":"Osama",
+    "special_inst":"Extra pickels",
+    "tip":"2",
+
+    "select_card":"Sam Hoj (4242)",
+    "address":"1818 Afton Street, Philadelphia, PA, USA",
+
+    "name_on_card":"Sam Hoj",
+    "card_number":"4242424242424242",
+    "month":"02",
+    "year":"2022",
+    "cvc":"222",
+    "quantity":"2",
+
+    "new_card_name":"Tester",
+    "new_card_num":"4000056655665556",
+    "new_card_month":"02",
+    "new_card_year":"2023",
+    "new_card_cvc":"222",
+    "new_card_remember":"Yes",
+
+    "order_type":"Delivery",
+    "order_time":"12:15 pm",
+    "addresslist":[
+            "71 Castor Ave, Philadelphia, PA 19152, USA",
+            "71 North Franklin Street, Philadelphia, PA 19152, USA",
+            "765 Castor Ave, Philadelphia, PA 19152, USA",
+            "63 Woodward Street, Philadelphia, PA 19152, USA",
+            "56 North Front Street, Philadelphia, PA, USA",
+            "7971 Castor Ave , Philadelphia, PA 19132",
+            "1023 Longshore Avenue, Philadelphia, PA, USA",
+            "230 Woodward Street, Philadelphia, PA, USA",
+            "1247 East Columbia Avenue, Philadelphia, PA, USA",
+            "911 North Franklin Street, Philadelphia, PA, USA",
+            "450 North 18th Street, Philadelphia, PA, USA"
+           ],
+    "pizza":[
+        {
+            "menugroup":"Pizza",
+            "menuitem":"Plain Cheese Pizza",
+            "additional_toppings":"Onion"
+                }
+    ],
+    "gourmet_pizza":[
+        {
+            "menugroup":"Gourmet Pizza",
+            "menuitem":"#10 GRILLED CHICKEN FAJITA Pizza",
+            "additional_toppings":"Onion"
+                }
+    ],
+    "stromboli":[
+        {
+            "menugroup":"Stromboli",
+            "menuitem":"#7 Santa Fe Stromboli"
+                }
+    ],
+    "Burgers":[
+        {
+            "menugroup":"Burgers",
+            "menuitem":"New Star Cheese Burger"
+                }
+    ],
+    "Chicken_rice":[
+        {
+            "menugroup":"Chicken_over_rice",
+            "menuitem":"Flounder Over Rice"
+                }
+    ],
+    "desert":[
+        {
+            "menugroup":"DESERTS",
+            "menuitem":"CARROT CAKE"
+                }
+    ],
+    "wing_ding":[
+        {
+            "menugroup":"Wing_Ding",
+            "menuitem":"12 PC WING ZING PLAT"
+                }
+    ],
+    "Chicken_platters":[
+        {
+            "menugroup":"FRIED CHICKEN PLATTERS",
+            "menuitem":"POPCORN CHIKEN PLAT"
+                }
+    ],
+    "CHICKEN NUGGETS":[
+        {
+            "menugroup":"CHICKEN NUGGETS",
+            "menuitem":"10 PC CHICKEN NUGGET"
+                }
+    ],
+    "CHICKEN FINGERS":[
+        {
+            "menugroup":"CHICKEN FINGERS",
+            "menuitem":"20 PC CHICKN FINGERS"
+                }
+    ],
+    "BUFFALO WINGS":[
+        {
+            "menugroup":"BUFFALO WINGS",
+            "menuitem":"Fresh Buffalo Wings"
+                }
+    ],
+
+    "SALADS":[
+        {
+            "menugroup":"SALADS",
+            "menuitem":"Antipasto Salad"
+                }
+    ],
+
+    "PASTA":[
+        {
+            "menugroup":"PASTA",
+            "menuitem":"MANICOTTI"
+                }
+    ],
+    "SEAFOOD PLATTER":[
+        {
+            "menugroup":"SEAFOOD_PLATTER",
+            "menuitem":"scallop"
+                }
+    ],
+    "WRAPS":[
+    {
+        "menugroup":"WRAPS",
+        "menuitem":"CORN BEEF WRAP"
+            }
+],
+"HOAGIES":[
+    {
+        "menugroup":"HOAGIES",
+        "menuitem":"Vegeterian Hoag"
+            }
+],
+"GYRO":[
+    {
+        "menugroup":"GYRO",
+        "menuitem":"Chicken Gyro"
+            }
+],
+
+"Hot_cold_sandwich":[
+    {
+        "menugroup":"HOT_COLD_SANDWICH",
+        "menuitem":"Tuna Fish Sandwich"
+            }
+],
+"Club_sandwich":[
+    {
+        "menugroup":"CLUB SANDWICH",
+        "menuitem":"Grill  CHICKEN CLUB"
+            }
+],
+"Grilled_chicken":[
+    {
+        "menugroup":"GRILLED_CHICKEN",
+        "menuitem":"Grill Chkn Chstk Platt"
+            }
+],
+"Chicken_steaks":[
+    {
+        "menugroup":"CHICKEN_STEAKS",
+        "menuitem":"Pepperoni Chkn Chstk"
+            }
+],
+"Beef_steaks":[
+    {
+        "menugroup":"BEEF_STEAKS",
+        "menuitem":"Cheesesteak"
+            }
+],
+
+"QUESADILLA":[
+    {
+        "menugroup":"QUESADILLA",
+        "menuitem":"STEAK QUESADILLA"
+            }
+],
+"Beverages":[
+    {
+        "menugroup":"BEVERAGES",
+        "menuitem":"Cans"
+            }
+]
+}
